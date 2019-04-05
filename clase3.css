@@ -1,0 +1,32 @@
+/*p{
+	color:blue
+}*/
+ /* comentario */
+
+h1{
+	color:#00ff00;
+	color:rgb(163,164,191); /* tres formas de escribir el color, con nombre, o formato exadecimal (rojo,verde y azul cada digito) pero existe un equivalente que se puede ingresar los numero asoaciado a rgb (rojo, green y blue) */
+	font-size: 2em /* el numero debe ir acompañado de la unidad de medida más utilizadas:; em(toma como referencia es para que el usuario pueda dar zoom y se vea de igual forma,)
+	% (es el otro que es un poco más complejo, es base al contenedor padre que lo tiene) */
+
+	}
+
+h2{
+	color:#00ff00;
+	color:rgb(163,164,191);
+	font-size: 1em
+}
+#foot{
+	color:red
+}
+
+etiqueta {
+	propiedad:valor;
+	propiedad2:valor2;
+}
+
+.formato{
+	text-align: right;
+}
+
+.publicidad

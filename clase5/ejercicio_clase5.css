@@ -1,0 +1,57 @@
+body {
+  background-image: url('fondo.jpg');
+}
+.contenido {
+  background-color: white;
+  padding: 10px;
+  margin: 20px;
+}
+
+section {
+  padding: 20px;
+  padding-top: 0px;
+  text-align: center;
+}
+article {
+  width: 30%;
+  margin: auto;
+  float: left;
+  padding: 10px;
+  background-color: white;
+}
+article h2 {
+  color: white;
+}
+article p {
+  height: 200px;
+  overflow: auto;
+}
+.personajes h2 {
+  background-color: red;
+}
+.personajes {
+  border-right-style: dotted;
+  border-color: red;
+}
+.casting h2 {
+  background-color: blue;
+}
+.casting {
+  border-right-style: dotted;
+  border-color: blue;
+}
+.Rodaje h2 {
+  background-color: green;
+}
+header {
+  width: auto;
+  height: 40px;
+  background-image: url("banner.jpg");
+  padding: 10px;
+  color: white;
+  text-align: right;
+  font-size: 1.7em;
+}
+#color_titulos {
+  color: red;
+}

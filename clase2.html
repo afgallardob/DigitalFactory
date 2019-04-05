@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<title>Clase 2</title>
+</head>
+<body>
+	<h1>Clase 2</h1>
+		<h2>Listas</h2>
+			<h3>No Ordenado</h3>
+			<ul>
+				<li>Item 1</li>
+				<li>Item 2</li>
+				<li>Item 3</li>
+				<li>Item 4</li>
+				
+			</ul>
+			<h3>Lista Ordenada</h3>
+			<ol>
+				<li>Item <b>1</b></li>
+				<li>Item 2</li>
+				<li>Item <b>3</b></li>
+				<li>Item 4</li>
+			</ol>
+
+			<h3>Ejemplo: Indice</h3>
+				<ol>
+					<li>Item 1</li>
+					 	<ol>
+							<li>Item 1</li>
+							<li>Item 2</li>
+							<li>Item 3</li>
+							<li>Item 4</li>
+						</ol>
+				
+			<h3>Lista de definiciones</h3>
+
+			<dl>
+				<dt>HTML</dt>
+				<dd>es un lenguaje de programación.... </dd>
+				<dt>HTML</dt>
+				<dd>es un lenguaje nonono.... </dd>
+				<dt>HTML</dt>
+				<dd>es un lenguaje de progr.. es importante.... </dd>
+				<dt>HTML</dt>
+				<dd>es un lenguaje de programac..es iun... </dd>
+			</dl>
+
+			<h2>Tablas</h2> <!-- Como hacer Filas -->
+			<table style="border: 1px solid black">
+				<caption>Titulo de la tabla</caption>
+				<thead>
+					<tr>
+						<th style="border: 1px solid black">Celda</th>
+						<th>Celda</th>
+						<th>Celda</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Celda</td>
+						<td>Celda</td>
+						<td>Celda</td>
+					</tr>
+				</tbody>
+
+				<tfoot>
+					<tr>
+						<td></td>
+						<td>Total:</td>
+						<td>XXX</td>
+					</tr>
+				</tfoot>
+			</table>
+
+			<h2>Calendario</h2>
+
+			<table style="border: 2px solid black">
+				<thead>
+					<th style="border: 1px solid black">DOM</th>
+					<th style="border: 1px solid black">LUN</th>
+					<th style="border: 1px solid black">MAR</th>
+					<th style="border: 1px solid black">MIE</th>
+					<th style="border: 1px solid black">JUE</th>
+					<th style="border: 1px solid black">VIE</th>
+					<th style="border: 1px solid black">SAB</th>
+				</thead>
+				
+				<tbody>
+					<td style="border: 1px solid black">1</td>
+					<td style="border: 1px solid black">2</td>
+					<td style="border: 1px solid black">3</td>
+					<td style="border: 1px solid black">4</td>
+					<td style="border: 1px solid black">5</td>
+					<td style="border: 1px solid black">6</td>
+					<td style="border: 1px solid black">7</td>
+				</tbody>
+
+				<tbody>
+					<td style="border: 1px solid black">8</td>
+					<td style="border: 1px solid black">9</td>
+					<td style="border: 1px solid black">10</td>
+					<td style="border: 1px solid black">11</td>
+					<td style="border: 1px solid black">12</td>
+					<td style="border: 1px solid black">13</td>
+					<td style="border: 1px solid black">14</td>
+				</tbody>
+
+				<tbody>
+					<td style="border: 1px solid black">15</td>
+					<td style="border: 1px solid black">16</td>
+					<td style="border: 1px solid black">17</td>
+					<td style="border: 1px solid black">18</td>
+					<td style="border: 1px solid black">19</td>
+					<td style="border: 1px solid black">20</td>
+					<td style="border: 1px solid black">21</td>
+				</tbody>
+
+				<tbody>
+					<td style="border: 1px solid black">22</td>
+					<td style="border: 1px solid black">23</td>
+					<td style="border: 1px solid black">24</td>
+					<td style="border: 1px solid black">25</td>
+					<td style="border: 1px solid black">26</td>
+					<td style="border: 1px solid black">27</td>
+					<td style="border: 1px solid black">28</td>
+				</tbody>
+
+				<tbody>
+					<td style="border: 1px solid black">29</td>
+					<td style="border: 1px solid black">30</td>
+					<td style="border: 1px solid black">31</td>
+					<td style="border: 1px solid black"></td>
+					<td style="border: 1px solid black"></td>
+					<td style="border: 1px solid black"></td>
+					<td style="border: 1px solid black"></td>
+				</tbody>
+			</table>
+
+	<h2>Contenido Multimedia</h2>
+	<h3> Imagenes </h3> <!-- Etiquetas tipo imagen -->
+		<img src="imagen1.jpg" alt="Imagen de Colores de la Luna" /><!-- scr: donde está alojado la imagen / alt: cuado posicionamos el mouse n una imagne sale un texto, el alt es ese texto, adicional la etiqueta de imagen no es necesario tener termino sino que se le incorpora "/" y es suficiente. -->
+		
+		<br/>
+
+		<img src="https://via.placeholder.com/150x200/00FFFF/000000?text=hola" alt="Imagen de Colores de la Luna"/>
+
+		<h3>Audio y Video</h3> <!-- las dos funcionan de manera similar -->
+
+		<video wigth="320" height="240" autoplay poster="https://"> <!-- barra de tiempos para adelantar o atrasar el video para eso se utiliza "controls" -->
+			<source src="https://" type="video/mp4"> <!-- el scr: se indica donde está ubicado el video y el nombre del video.mp4  -->
+			<source src="https://" type="video/ogg">
+				TU BROWSER NO ES COMPATIBLE
+		</video>
+
+        <audio src="">
+        	<p>No tengo audio</p>
+
+        </audio>
+ 	<form action="/action_page.php" method="get" target="_blank"> <!-- se ingresa todo el contenido de información para el usuario, que viaja a un determinado lugar. a eso le dicen formulario.--> <!-- metodo puede ser GET (recibir info) o post (enviar informacion).--> <!-- toda etiqueta tiene una acion, un metodo (tipo de accion que puede hacer el formulario) y target es cuando se realiza la acción a donde te redirige la pagina.-->
+ 		<input type="text" name="nombre" placeholder="Juan Perez" /><br/>
+ 		<input type="number"name="numero" placeholder="56 90000 0000"/><br/>
+ 		<input type="button"name="boton"/><br/>
+ 		<input type="color"name="color"/><br/> 
+ 		<input type="date" name="fecha"/><br/> <!-- te expande un calendario -->
+ 		<input type="email" name="email" placeholder="juanperez@hotmail.com"/><br/> <!-- ingresar Email -->
+ 		<input type="file" name="adjunto"/><br/> <!-- para adjuntar información -->
+ 		<input type="password"/><br/>
+
+ 		<textarea rows="5" col="70">  </textarea><br/>
+
+<!-- Existen 3 tipos de botones -->
+ 		<input type="button"name="boton"/ value="Botón"><br/>
+ 		<input type="reset"name="restablecer"/ value="Resetear"><br/> <!-- plimpiarà todo lo que está dentro del formulario -->
+ 		<input type="submit"name="enviar"/ value="Enviar formulario"><br/>
+	
+		<!-- Botones de radios para indicar colores especificos al cliente, estos tipos de botones sólo permiten seleccionar una opcion, solo en caso de cambiar el nombre (name) se puede seleccionar los diferenciados por el name-->
+
+		<input type="radio" name="Futbol" value="Universidad Católica"> <span>Universidad Catolica</span><br/>
+		<!-- en tipo radio el valor no se muestra la info al usuario -->
+		<input type="radio" name="Futbol" value="Universidad de Chile"> <span>Universidad de chile</span><br/>
+		<input type="radio" name="Futbol" value="Colo-Colo"> <span>Colo-colo</span><br/>
+
+		Aceptar terminos y condiciones<input type="checkbox" name="prueba" value="acepta"><br/>
+
+		<fieldset>
+			<legend>Sección</legend>
+			<label for="talla">Seleccionar Talla: </label>
+			<select name="talla"><br/>
+				<option value="S">Small</option>
+				<option value="M">Medium</option>
+	            <option value="L">Large</option>
+			</select>	
+		</fieldset>
+ 	</form><br/>
+ 	<br/>
+<!-- Como se vinculan las paginas -->
+
+<a href="digital.html">link al destino</a><br/>
+<a href="anexo/digital.html">link al destino</a><br/>
+<a href="https//www.youtube.com">youtube</a><br/>
+<a href="#foot">pie de pagina</a>
+	
+<footer id="foot"></footer>
+<a href="https://es.wikipedia.org/wiki/Luna">pie de pagina</a>
+</body>
+</html>

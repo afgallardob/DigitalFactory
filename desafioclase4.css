@@ -1,0 +1,23 @@
+h1{ 
+
+	 font-family: 'Work Sans', sans-serif;
+
+ }
+
+ p{
+ 	color: #0033ff;
+ 	letter-spacing: 1px;
+ 	word-spacing: 15px;
+ 	font-size: 12px;
+
+ }
+
+ body{
+ 	background-image: url(https://img.descargarfondosdepantalla.net/uploads/2018/09/claros-4k.jpg);
+ }
+
+#img-cabecera{ 
+
+	height: 100x;
+	width: 100px;
+ }

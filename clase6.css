@@ -1,0 +1,21 @@
+section {
+  background-color: red;
+}
+.e1 {
+  position: fixed;
+  background-color: yellow;
+  z-index: 12;
+}
+
+#img_logo {
+  position: relative;
+  left: 50px;
+}
+
+#frase_logo {
+  position: relative;
+  left: 5px;
+}
+.new {
+  position: sticky;
+}

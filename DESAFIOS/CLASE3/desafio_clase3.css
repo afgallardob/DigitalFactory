@@ -1,0 +1,42 @@
+body {
+  background-image: url(fondo.jpg);
+}
+.logo {
+  text-align: center;
+}
+.menu {
+  background-color: white;
+}
+.menu a {
+  color: black;
+  text-decoration: none;
+  font-size: 24px;
+}
+.menu a:hover {
+  color: red;
+}
+.menu li {
+  list-style: none;
+}
+
+#contenido {
+  background-color: white;
+}
+.titulo {
+  font-size: 24px;
+  color: white;
+  text-align: center;
+}
+.img-principal {
+  text-align: center;
+}
+.productos {
+  background-color: white;
+  text-align: center;
+}
+.formulario {
+  background-color: white;
+}
+footer {
+  background-color: white;
+}

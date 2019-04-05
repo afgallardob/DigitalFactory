@@ -1,0 +1,48 @@
+p{
+	font-family: serif;
+	font-size: 1.1em;
+	
+	color:white;
+
+	font-weight: normal;
+	letter-spacing: 0px;
+	word-spacing: 10px;
+	line-height: 1.5em;
+	text-align: justify;
+	text-decoration: ; /* upprcase, lowercase */
+
+}
+
+ul{
+	list-style-type: upper-roman;
+
+}
+
+
+ul li ul {
+ 
+	list-style: lower-roman;
+}
+
+
+h1 {
+
+	font-family: 'Work Sans', sans-serif;
+}
+
+body{
+	background-image: url(https://andro4all.com/files/2019/02/Samsung-galaxy-s10-fondo-azul-700x1515.jpg);
+	background-position: top left;
+	background-repeat: repeat-x;
+}
+
+
+div {
+	border-style: dotted;
+	border-color: green;
+	border-top-width: 10px;
+	border-right-width: 5px;
+	border-bottom-width: 10px;
+	border-left-width: 5px;
+	border-width: 10px
+}
