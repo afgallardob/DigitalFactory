@@ -1,0 +1,32 @@
+.grid {
+  /*Generar Matriz de 2x2*/
+  display: grid;
+  grid-template-columns: repeat(2, 100px);/* 100px 100px*/
+  grid-template-rows: repeat(2, 50px 100px);/* 50px 100px*/
+  color: white;
+}
+.grid2 {
+  /*Generar Matriz de 6x2*/
+  display: grid;
+  grid-template-areas: "head head" "menu main" "foot foot";
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+}
+.a {
+  background-color: blue;
+  /*grid-area: head;*/
+  grid-column-start: 2;
+  grid-row-end: 2;
+}
+.b {
+  background-color: orange;
+  /*grid-area: menu;*/
+}
+.c {
+  background-color: green;
+  /*grid-area: main;*/
+}
+.d {
+  background-color: red;
+  /*grid-area: foot;+/
+}

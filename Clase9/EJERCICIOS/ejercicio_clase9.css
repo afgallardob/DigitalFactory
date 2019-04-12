@@ -1,0 +1,61 @@
+body {
+  background-image: url('fondo.jpg');
+}
+header {
+  width: auto;
+  height: 40px;
+  background-image: url("banner.jpg");
+  padding: 10px;
+  color: white;
+  text-align: right;
+  font-size: 1.7em;
+}
+.contenido {
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.padre {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.personajes h2 {
+  background-color: red;
+  color: white;
+  padding: 10px;
+}
+.personajes {
+  border-right-style: dotted;
+  border-color: red;
+  flex-shrink: 1;
+  width: 300px;
+}
+
+.casting h2 {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+.casting {
+  border-right-style: dotted;
+  border-color: blue;
+  flex-shrink: 1;
+  width: 300px;
+}
+
+.Rodaje h2 {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+.Rodaje {
+  flex-shrink: 1;
+  width: 300px;
+}
+
+#color_titulos {
+  color: red;
+}
