@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cotton Mens Nike T-Shirts",
+    "precio": 29990,
+    "descripción": "Todas las medidas, color negro, blanco y gris.",
+    "categoria": "Poleras",
+    "imagen": "https://5.imimg.com/data5/UJ/TB/MY-44052969/nike-mens-t-shirt-500x500.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Polerón Adidas Stadium",
+    "precio": 39990,
+    "descripción": "Marca: Adidas, Modelo: CZ2940, Tipo: Polerones, Género: Mujer, Material principal: Algodón, Composición: 100% Algodón, Cierre: Cierre, Disciplina: Otro, Estilo: Deportivo, Fit: Cropped",
+    "categoria": "Polerones",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6551078_1?$producto308$&wid=800&hei=800&qlt=70"
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatilla Urbana Hombre CM997HAI",
+    "precio": 37990,
+    "descripción": "Marca	New Balance, Modelo	CM997HAI, Género	Hombre, Tipo	Zapatillas urbanas",
+    "categoria": "Zapatillas",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6952699_1?$producto308$&wid=800&hei=800&qlt=70"
+  }
+  {
+    "id": 4,
+    "nombre": "Polerón Sportswear Club Camo",
+    "precio": 19990,
+    "descripción": "Marca	Nike, Modelo	PRG CLUB CAMO, Tipo	Polerones, Género	Hombre",
+    "categoria": "Polerones",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6979586_1?$producto308$&wid=800&hei=800&qlt=70"
+  },
+  {
+    "id": 5,
+    "nombre": "Polerón Adidas Stadium",
+    "precio": 39990,
+    "descripción": "Marca: Adidas, Modelo: CZ2940, Tipo: Polerones, Género: Mujer, Material principal: Algodón, Composición: 100% Algodón, Cierre: Cierre, Disciplina: Otro, Estilo: Deportivo, Fit: Cropped",
+    "categoria": "Polerones",
+    "imagen": "https://www.falabella.com/falabella-cl/product/7015463/Pantalon-Jogger-Hombre-Rival-Fleece/7015478"
+  },
+  {
+    "id": 6,
+    "nombre": "Protector de Columna Moto Pro Back",
+    "precio": 129.990,
+    "descripción": "Marca: iXS, Modelo: Pro Back, Color: negro, Material: plástico y espuma, Incluye: 1, Garantía: 3 meses",
+    "categoria": "Mochilas",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/5291496_1?$producto308$&wid=800&hei=800&qlt=70"
+  }
+]
