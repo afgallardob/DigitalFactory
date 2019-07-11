@@ -1,54 +1,38 @@
 {
   "productos": [
-  {
-    "id": 1,
-    "nombre": "Cotton Mens Nike T-Shirts",
-    "precio": 29990,
-    "descripción": "Todas las medidas, color negro, blanco y gris.",
-    "categoria": "Poleras",
-    "imagen": "https://5.imimg.com/data5/UJ/TB/MY-44052969/nike-mens-t-shirt-500x500.jpeg"
-  },
-  {
-    "id": 2,
-    "nombre": "Polerón Adidas Stadium",
-    "precio": 39990,
-    "descripción": "Marca: Adidas, Modelo: CZ2940, Tipo: Polerones, Género: Mujer, Material principal: Algodón, Composición: 100% Algodón, Cierre: Cierre, Disciplina: Otro, Estilo: Deportivo, Fit: Cropped",
-    "categoria": "Polerones",
-    "imagen": "https://falabella.scene7.com/is/image/Falabella/6551078_1?$producto308$&wid=800&hei=800&qlt=70"
-  },
-  {
-    "id": 3,
-    "nombre": "Zapatilla Urbana Hombre CM997HAI",
-    "precio": 37990,
-    "descripción": "Marca	New Balance, Modelo	CM997HAI, Género	Hombre, Tipo	Zapatillas urbanas",
-    "categoria": "Zapatillas",
-    "imagen": "https://falabella.scene7.com/is/image/Falabella/6952699_1?$producto308$&wid=800&hei=800&qlt=70"
-  }
-  {
-    "id": 4,
-    "nombre": "Polerón Sportswear Club Camo",
-    "precio": 19990,
-    "descripción": "Marca	Nike, Modelo	PRG CLUB CAMO, Tipo	Polerones, Género	Hombre",
-    "categoria": "Polerones",
-    "imagen": "https://falabella.scene7.com/is/image/Falabella/6979586_1?$producto308$&wid=800&hei=800&qlt=70"
-  },
-  {
-    "id": 5,
-    "nombre": "Polerón Adidas Stadium",
-    "precio": 39990,
-    "descripción": "Marca: Adidas, Modelo: CZ2940, Tipo: Polerones, Género: Mujer, Material principal: Algodón, Composición: 100% Algodón, Cierre: Cierre, Disciplina: Otro, Estilo: Deportivo, Fit: Cropped",
-    "categoria": "Polerones",
-    "imagen": "https://www.falabella.com/falabella-cl/product/7015463/Pantalon-Jogger-Hombre-Rival-Fleece/7015478"
-  },
-  {
-    "id": 6,
-    "nombre": "Protector de Columna Moto Pro Back",
-    "precio": 129.990,
-    "descripción": "Marca: iXS, Modelo: Pro Back, Color: negro, Material: plástico y espuma, Incluye: 1, Garantía: 3 meses",
-    "categoria": "Mochilas",
-    "imagen": "https://falabella.scene7.com/is/image/Falabella/5291496_1?$producto308$&wid=800&hei=800&qlt=70"
-  }
-]
+    {
+      "id": 1,
+      "nombre": "Office 365",
+      "precio": "29.990",
+      "descripción": "Office 365 Personal te permite tener 1TB de almacenamiento en la nube, además de 60 minutos mensuales por usuario para llamar a cualquier lugar del mundo por Skype. Tendrás suscripción por un año con la última versión completa e instalada de Word, Excel y PowerPoint, entre otros. Esto es para un Pc o Mac, una tablet o iPad, Android o Windows y un teléfono.",
+      "categoria": "Software",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/4269135_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 2,
+      "nombre": "Windows 10 Home",
+      "precio": "159.990",
+      "descripción": "Formato descargable: Al comprar este producto, el formato de entrega del software será mediante un código descargable que será enviado al correo del cliente. Producto no físico.",
+      "categoria": "Software",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6132063_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 3,
+      "nombre": "Kaspersky Antivirus",
+      "precio": "120.990",
+      "descripción": "Kaspersky Small Office Security 6 for Desktops, Mobiles and File Servers Latin America Edition. 5-Mobile device; 5-Desktop; 1-FileServer; 5-User 1 year Base Download Pack",
+      "categoria": "Software",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6884945_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 4,
+      "nombre": "MacBook Pro",
+      "precio": "2.090.990",
+      "descripción": "Procesador: Intel Core i7",
+      "categoria": "Laptop",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6664036_1?$producto308$&wid=800&hei=800&qlt=70"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
