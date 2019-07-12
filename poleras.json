@@ -1,0 +1,55 @@
+{
+  "poleras": [
+    {
+      "id": 1,
+      "nombre": "Nike - Polera Hombre Dry Academy Top",
+      "precio": "12.990",
+      "descripción": "Marca Nike, Modelo 832967-010, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/5477445_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 2,
+      "nombre": "Under Armour - Polera Tech 2.0 Manga Corta",
+      "precio": "9.990",
+      "descripción": "Marca Under Armour, Modelo 1326413-003, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/7015697_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 3,
+      "nombre": "Adidas - Polera Traction Aop Ce2247",
+      "precio": "24.990",
+      "descripción": "Marca Adidas, Modelo CE2247, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6192004_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 4,
+      "nombre": "Puma - Polera Deportiva Hombre 851549 01",
+      "precio": "9.990",
+      "descripción": "Marca Puma, Modelo 851549 01, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6545278_1?$producto308$&wid=800&hei=800&qlt=70"
+    }
+    {
+      "id": 5,
+      "nombre": "Nike - Polera Dri Fit Rojo",
+      "precio": "11.990",
+      "descripción": "Marca Nike, Modelo PRG TS BRT ROJO, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6654908_1?$producto308$&wid=800&hei=800&qlt=70"
+    }
+    {
+      "id": 6,
+      "nombre": "Nike - Polera Deportiva Hombre",
+      "precio": "8.990",
+      "descripción": "Marca Nike, Modelo JUST DO IT C, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6988326_1?$producto308$&wid=800&hei=800&qlt=70"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
