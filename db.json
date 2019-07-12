@@ -1,36 +1,52 @@
 {
-  "productos": [
+  "poleras": [
     {
       "id": 1,
-      "nombre": "Purebounce+ m Zapatilla Running Hombre",
-      "precio": "34.990",
-      "descripción": "Marca adidas, Modelo AC8782, Género Hombre, Tipo Running",
-      "categoria": "Zapatillas",
-      "imagen": "https://falabella.scene7.com/is/image/Falabella/6955796_1?$producto308$&wid=800&hei=800&qlt=70"
+      "nombre": "Nike - Polera Hombre Dry Academy",
+      "precio": "12.990",
+      "descripción": "Marca Nike, Modelo 832967-010, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/5477445_1?$producto308$&wid=800&hei=800&qlt=70"
     },
     {
       "id": 2,
-      "nombre": "Nike Short Hombre",
-      "precio": "12.990",
-      "descripción": "Marca Nike, Modelo NKCT DRY SH, Tipo Shorts, Género Hombre",
-      "categoria": "Short",
-      "imagen": "https://falabella.scene7.com/is/image/Falabella/6982048_1?$producto308$&wid=800&hei=800&qlt=70"
+      "nombre": "Under Armour - Polera Tech 2.0 Manga Corta",
+      "precio": "9.990",
+      "descripción": "Marca Under Armour, Modelo 1326413-003, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/7015697_1?$producto308$&wid=800&hei=800&qlt=70"
     },
     {
       "id": 3,
-      "nombre": "Diadora Pantalón Buzo Mujer",
+      "nombre": "Adidas - Polera Traction Aop Ce2247",
       "precio": "24.990",
-      "descripción": "Marca Diadora, Modelo Pa.W.Sport2.W19, Tipo Jogger, Género Mujer",
-      "categoria": "Pantalón",
-      "imagen": "https://falabella.scene7.com/is/image/Falabella/881472639_1?$producto308$&wid=800&hei=800&qlt=70"
+      "descripción": "Marca Adidas, Modelo CE2247, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6192004_1?$producto308$&wid=800&hei=800&qlt=70"
     },
     {
       "id": 4,
-      "nombre": "Nike Polerón Therma Dri fit Full Zip",
-      "precio": "18.990",
-      "descripción": "Marca Nike, Modelo PRG THRMA FZ OL, Tipo Polerones, Género Hombre",
-      "categoria": "Poleron",
-      "imagen": "https://falabella.scene7.com/is/image/Falabella/6654874_1?$producto308$&wid=800&hei=800&qlt=70"
+      "nombre": "Puma - Polera Deportiva Hombre 851549 01",
+      "precio": "9.990",
+      "descripción": "Marca Puma, Modelo 851549 01, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6545278_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 5,
+      "nombre": "Nike - Polera Dri Fit Rojo",
+      "precio": "11.990",
+      "descripción": "Marca Nike, Modelo PRG TS BRT ROJO, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6654908_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 6,
+      "nombre": "Nike - Polera Deportiva Hombre",
+      "precio": "8.990",
+      "descripción": "Marca Nike, Modelo JUST DO IT C, Tipo Poleras deportivas, Género Hombre",
+      "categoria": "Poleras",
+      "imagen": "https://falabella.scene7.com/is/image/Falabella/6988326_1?$producto308$&wid=800&hei=800&qlt=70"
     }
   ],
   "profile": {
